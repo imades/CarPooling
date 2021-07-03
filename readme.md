@@ -1,4 +1,4 @@
-# GitHub Finder
+#Let's GO
 
 ![Project Image1](./img/index.png)
 ![Project Image2](./img/register.png)
@@ -9,7 +9,7 @@
 
 ## Description
 
-- Lets'go a site for managing carpooling
+- Lets'go Web App for carpooling
 
 #### Fonctionnalites
 
@@ -23,7 +23,7 @@
 
 #### Technologies
 
-- java
+- java 8
 - Spring Boot
 - thymeleaf template engine
 - boostrap 4
